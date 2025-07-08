@@ -92,3 +92,4 @@ This project is a web application that allows users to analyze the sentiment of 
     - `scikit-learn`
 
 Install all dependencies using the `requirements.txt`.
+--
